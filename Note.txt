@@ -1,0 +1,28 @@
+ipconfig/flushdns
+
+Naa Songs
+
+masstelugu.com
+
+https://www.javamadesoeasy.com/2015/05/exception-handling-exception-hierarchy.html
+
+
+* SE--SDLC
+*Diffeent testing
+
+*Selenium
+* testing -- Automation
+
+
+Software Engineering -
+1)Testing
+2) Selenium
+3) Manual Testing
+
+
+API testing
+
+DataBase Testing 
+
+SE->
+1)
