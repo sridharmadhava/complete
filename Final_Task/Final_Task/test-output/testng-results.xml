@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-05T10:54:20 IST" name="Default suite" finished-at="2025-09-05T10:56:08 IST" duration-ms="107082">
+    <groups>
+    </groups>
+    <test started-at="2025-09-05T10:54:20 IST" name="Default test" finished-at="2025-09-05T10:56:08 IST" duration-ms="107082">
+      <class name="execute.Exe_signup">
+        <test-method signature="LoginandSignup()[pri:1, instance:execute.Exe_signup@4983159f]" started-at="2025-09-05T10:54:21 IST" name="LoginandSignup" finished-at="2025-09-05T10:54:52 IST" duration-ms="31019" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginandSignup -->
+        <test-method signature="addcart()[pri:2, instance:execute.Exe_signup@4983159f]" started-at="2025-09-05T10:54:52 IST" name="addcart" finished-at="2025-09-05T10:55:59 IST" depends-on-methods="execute.Exe_signup.LoginandSignup" duration-ms="67491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addcart -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:execute.Exe_signup@4983159f]" started-at="2025-09-05T10:55:59 IST" name="logOut" finished-at="2025-09-05T10:56:08 IST" duration-ms="8123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+      </class> <!-- execute.Exe_signup -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
